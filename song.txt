@@ -2,9 +2,24 @@ sword and spear
 wall of shields
 standing strong
 on this ...
+<<<<<<< HEAD
+
+sword and spear
+wall of shields
+standing strong
+on this ...
+
+sword and spear
+wall of shields
+standing strong
+on this ...
 
 sword and spear
 wall of shields
 standing strong
 on this ...
 _______________
+=======
+form the lines
+shield by shield
+>>>>>>> a5888329919e2fd9256b9aaaf2a15654080d95bd
